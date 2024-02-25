@@ -18,9 +18,11 @@ It's designed to encourage creative problem-solving and to advance knowledge in 
 
 ------------------------------------------------
 Getting Started
+
 This project is written in Haskell and requires GHC (The Glasgow Haskell Compiler) for compiling and running. Follow the steps below to set up your environment and run the project.
 
 Prerequisites
+
 GHCup: This tool is used to manage GHC versions and related tools. Install GHCup following the instructions on the official GHCup website.
 Setup
 Install GHCup: Follow the installation guide for GHCup to set up GHC on your system if you haven't already.
