@@ -1,4 +1,5 @@
 Tic Tac Toe in Haskell - A Functional Programming Approach
+
 This repository contains a Haskell-based implementation of the classic game Tic Tac Toe, developed as part of our Functional Programming course. Emphasizing the principles of lambda calculus, recursion, monads, 
 and functors, this project showcases the efficacy of functional programming in problem-solving within the domain of game development.
 
